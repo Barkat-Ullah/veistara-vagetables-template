@@ -132,7 +132,7 @@ export const original = {
   eco_farming_standard: "Eco Farming Standard",
   sustainable_agriculture: "Sustainable Agriculture",
   quality_food_assurance: "Quality Food Assurance",
-  buy_this_template: "Buy this template",
+  
   ready_to_taste_the_difference: "Ready to Taste the Difference?",
   join_our_community_today_and_get_20_off_: "Join our community today and get 20% off your first order of fresh, organic produce delivered to your doorstep.",
   vesteira_is_dedicated_to_growing_and_del: "Vesteira is dedicated to growing and delivering fresh organic produce using sustainable farming practices that protect nature and promote healthy living.",

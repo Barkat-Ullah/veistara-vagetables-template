@@ -55,17 +55,6 @@ export default function FarmsPage() {
             </div>
             <div id="overlay" />
             <div className="framer-1bgls3j" />
-            <div className="framer-3fa16p-container hidden-1wyxcdt" data-framer-name="buy now" name="buy now" style={{ willChange: "transform", opacity: "1", transform: "none" }}>
-              <Suspense fallback={null}>
-                <a name="buy now" className="framer-yfik4 framer-1gpzlyz framer-v-1gpzlyz framer-5axmvi" data-framer-name="buy now" href="https://designtocodes.com/?d2c_buy=MzAzNDMuMzcwNTk4ZDY0MmRmNTRkMjY5ZWE" target="_blank" style={{ backgroundColor: "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))", borderBottomLeftRadius: "100px", borderBottomRightRadius: "100px", borderTopLeftRadius: "100px", borderTopRightRadius: "100px" }}>
-                  <div className="framer-40vnjl" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-73480c38-b788-4085-b0f7-ee51c9ad13d5, rgb(243, 246, 233))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" }}>
-                    <p dir="auto" className="framer-text" style={{ "--font-selector": "SW50ZXItTWVkaXVt", "--framer-font-size": "13px", "--framer-font-weight": "500", "--framer-line-height": "1em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-73480c38-b788-4085-b0f7-ee51c9ad13d5, rgb(243, 246, 233)))", "--framer-text-transform": "capitalize" }}>
-                      {"Buy this template"}
-                    </p>
-                  </div>
-                </a>
-              </Suspense>
-            </div>
             <Cta />
             <div className="ssr-variant hidden-83oeot hidden-1wyxcdt">
               <Footer />

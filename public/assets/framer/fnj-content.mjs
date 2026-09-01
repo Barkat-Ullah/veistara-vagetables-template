@@ -140,7 +140,7 @@ export const c = {
   eco_farming_standard: "Eco Farming Standard",
   sustainable_agriculture: "Sustainable Agriculture",
   quality_food_assurance: "Quality Food Assurance",
-  buy_this_template: "Buy this template",
+  
   ready_to_taste_the_difference: "Ready to Taste the Difference?",
   join_our_community_today_and_get_20_off_: "Join our community today and get 20% off your first order of fresh, organic produce delivered to your doorstep.",
   vesteira_is_dedicated_to_growing_and_del: "Vesteira is dedicated to growing and delivering fresh organic produce using sustainable farming practices that protect nature and promote healthy living.",
@@ -154,7 +154,7 @@ export const c = {
   t_1_415_555_7823: "+1 (415) 555-7823",
   hello_vesteira_com: "hello@vesteira.com",
   green_valley_farm_road_napa_valley_ca_94: "Green Valley Farm Road Napa Valley, CA 94558 United States",
-  all_rights_reserved_by_designtocodes: "All rights reserved by ©DesignToCodes",
+  all_rights_reserved_by_designtocodes: "All rights reserved by ©barkat",
   read_more: "Read More",
   add_to_cart: "Add to Cart",
   t_text: "⭐️",

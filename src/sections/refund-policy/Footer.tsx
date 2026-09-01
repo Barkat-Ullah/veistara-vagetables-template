@@ -224,7 +224,7 @@ export default function Footer() {
           <div className="framer-z5ecbm" data-framer-name="Sub-Footer">
             <div className="framer-1vq8x5b" data-framer-component-type="RichTextContainer" style={{ justifyContent: "center", transform: "none" }}>
               <p className="framer-text framer-styles-preset-ldsuhq" data-styles-preset="h04vthjdR" dir="auto" style={{ "--framer-text-alignment": "center" }}>
-                {"All rights reserved by ©DesignToCodes"}
+                {"All rights reserved by ©barkat"}
               </p>
             </div>
           </div>
