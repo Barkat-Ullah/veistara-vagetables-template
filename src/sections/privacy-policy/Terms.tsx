@@ -15,30 +15,30 @@ export default function Terms() {
         </div>
         <div className="framer-1sq46xd" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
           <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-            {"Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information."}
+            {"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
           </p>
         </div>
         <div className="framer-1v9hn4l" data-framer-name="div">
           <div className="framer-1psxtbm" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"1. Information We Collect"}
+              {"1. Lorem Ipsum Dolor Sit Amet"}
             </h5>
           </div>
           <div className="framer-8w44fy" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"We may collect personal information such as your name, email address, billing details, and any information you provide when contacting us or making a purchase. We may also collect non-personal data such as browser type, device information, and website usage statistics."}
+              {"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."}
             </p>
           </div>
         </div>
         <div className="framer-10nst8d" data-framer-name="div">
           <div className="framer-sb0sfu" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"2. How We Use Your Information"}
+              {"2. Consectetur Adipiscing Elit"}
             </h5>
           </div>
           <div className="framer-savxet" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"We use your information to:"}
+              {"Lorem ipsum dolor sit amet, consectetur adipiscing elit:"}
             </p>
           </div>
           <div className="framer-15ogmjj" data-framer-name="icon-div">
@@ -53,14 +53,14 @@ export default function Terms() {
               <div className="ssr-variant hidden-mzmzsa hidden-igqxoj hidden-6ofkb8">
                 <div className="framer-1wo15j4" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-ldsuhq" data-styles-preset="h04vthjdR" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Process purchases and deliver templates"}
+                    {"Lorem ipsum dolor sit amet"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-1r9pb96">
                 <div className="framer-1wo15j4" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-12q34vs" data-styles-preset="lDfnRul3y" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Process purchases and deliver templates"}
+                    {"Lorem ipsum dolor sit amet"}
                   </p>
                 </div>
               </div>
@@ -76,14 +76,14 @@ export default function Terms() {
               <div className="ssr-variant hidden-mzmzsa hidden-igqxoj hidden-6ofkb8">
                 <div className="framer-b79wg7" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-ldsuhq" data-styles-preset="h04vthjdR" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Respond to inquiries and provide customer support"}
+                    {"Consectetur adipiscing elit sed do"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-1r9pb96">
                 <div className="framer-b79wg7" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-12q34vs" data-styles-preset="lDfnRul3y" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Respond to inquiries and provide customer support"}
+                    {"Consectetur adipiscing elit sed do"}
                   </p>
                 </div>
               </div>
@@ -99,14 +99,14 @@ export default function Terms() {
               <div className="ssr-variant hidden-mzmzsa hidden-igqxoj hidden-6ofkb8">
                 <div className="framer-r4cd0v" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-ldsuhq" data-styles-preset="h04vthjdR" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Improve our website and services"}
+                    {"Eiusmod tempor incididunt ut labore"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-1r9pb96">
                 <div className="framer-r4cd0v" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-12q34vs" data-styles-preset="lDfnRul3y" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Improve our website and services"}
+                    {"Eiusmod tempor incididunt ut labore"}
                   </p>
                 </div>
               </div>
@@ -122,14 +122,14 @@ export default function Terms() {
               <div className="ssr-variant hidden-mzmzsa hidden-igqxoj hidden-6ofkb8">
                 <div className="framer-6m1wy1" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-ldsuhq" data-styles-preset="h04vthjdR" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Send updates or promotional emails (only if you opt in)"}
+                    {"Dolore magna aliqua ut enim ad minim"}
                   </p>
                 </div>
               </div>
               <div className="ssr-variant hidden-1r9pb96">
                 <div className="framer-6m1wy1" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                   <p className="framer-text framer-styles-preset-12q34vs" data-styles-preset="lDfnRul3y" dir="auto" style={{ "--framer-text-color": "var(--token-90c2ab70-b23e-4699-8f03-f6a41fb5be8e, rgb(67, 86, 80))" }}>
-                    {"Send updates or promotional emails (only if you opt in)"}
+                    {"Dolore magna aliqua ut enim ad minim"}
                   </p>
                 </div>
               </div>
@@ -139,60 +139,60 @@ export default function Terms() {
         <div className="framer-1jkywpy" data-framer-name="div">
           <div className="framer-h72u51" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"3. Data Protection"}
+              {"3. Sed Do Eiusmod Tempor"}
             </h5>
           </div>
           <div className="framer-wsbeea" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"We implement reasonable security measures to protect your personal information. However, no method of online transmission or storage is 100% secure."}
+              {"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
             </p>
           </div>
         </div>
         <div className="framer-k3kehq" data-framer-name="div">
           <div className="framer-gr0ydo" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"4. Sharing of Information"}
+              {"4. Incididunt Ut Labore Et Dolore"}
             </h5>
           </div>
           <div className="framer-2j1la8" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"We do not sell, trade, or rent your personal information. We may share data with trusted third-party service providers (such as payment processors or email services) only as necessary to operate our business."}
+              {"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."}
             </p>
           </div>
         </div>
         <div className="framer-1vz84gl" data-framer-name="div">
           <div className="framer-6kkuth" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"5. Cookies"}
+              {"5. Magna Aliqua Ut Enim"}
             </h5>
           </div>
           <div className="framer-yrv96j" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"Our website may use cookies to enhance user experience, analyze traffic, and improve functionality. You can disable cookies through your browser settings."}
+              {"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."}
             </p>
           </div>
         </div>
         <div className="framer-qhloik" data-framer-name="div">
           <div className="framer-1qwtohl" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"6. Your Rights"}
+              {"6. Quis Nostrud Exercitation"}
             </h5>
           </div>
           <div className="framer-18t08xb" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"You may request access, correction, or deletion of your personal information at any time by contacting us."}
+              {"Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."}
             </p>
           </div>
         </div>
         <div className="framer-iagl9o" data-framer-name="div">
           <div className="framer-1mrj2ul" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-              {"7. Changes to This Policy"}
+              {"7. Duis Aute Irure Dolor"}
             </h5>
           </div>
           <div className="framer-98zayo" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
             <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-              {"We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date."}
+              {"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit."}
             </p>
           </div>
         </div>

@@ -12,7 +12,7 @@ export default function Terms() {
           <div className="framer-1gppvuf" data-framer-name="div">
             <div className="framer-19r6ykf" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <h1 className="framer-text framer-styles-preset-9vybd4" data-styles-preset="bsRS1KHNk" dir="auto" style={{ "--framer-text-color": "var(--token-f183dd4a-ffdc-43b0-a338-9aeb78e4c861, rgb(5, 33, 24))" }}>
-                {"The \"Standard Digital\" Policy"}
+                {"Refund Policy"}
               </h1>
             </div>
             <div className="framer-1ljfygd" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
@@ -22,29 +22,29 @@ export default function Terms() {
             </div>
             <div className="framer-1wthob6" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-                {"Use this if you want to protect yourself from people who download the template and then immediately ask for a refund."}
+                {"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
               </p>
             </div>
           </div>
           <div className="framer-yxhj3y" data-framer-name="div">
             <div className="framer-1liwn9" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <h5 className="framer-text framer-styles-preset-15wleyu" data-styles-preset="YpZBQZUUm" dir="auto">
-                {"Refund Policy"}
+                {"Refund Terms & Conditions"}
               </h5>
             </div>
             <div className="framer-2pint2" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-                {"Clear and transparent terms for your digital purchase."}
+                {"Lorem ipsum dolor sit amet, consectetur adipiscing elit."}
               </p>
             </div>
             <div className="framer-ofmwxd" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-                {"\"Due to the digital nature of our Framer templates, all sales are final. Once you have gained access to the template files, we cannot offer a refund as the product cannot be 'returned.'"}
+                {"\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}
               </p>
             </div>
             <div className="framer-jg2zbc" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
               <p className="framer-text framer-styles-preset-1nzly4j" data-styles-preset="U8J5M1HvQ" dir="auto">
-                {"However, your satisfaction is our priority. If you encounter a technical bug or an issue where the template does not function as advertised, please reach out to us within 14 days of purchase. We will work with you to fix the issue, and if we cannot resolve it, a refund will be issued.\""}
+                {"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\""}
               </p>
             </div>
           </div>
