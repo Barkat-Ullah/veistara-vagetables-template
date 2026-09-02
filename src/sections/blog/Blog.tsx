@@ -46,7 +46,7 @@ export default function Blog() {
           <div className="framer-8zv3m6">
             <Suspense fallback={null}>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/10-easy-ways-to-use-seasonal-squash">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -148,7 +148,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/the-benefits-of-organic-farming">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -250,7 +250,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/why-fresh-farm-produce-matters">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -352,7 +352,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/from-farm-to-table">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -454,7 +454,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/5-sustainable-farming-practices">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -556,7 +556,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/organic-farming-vs-conventional-farming">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -658,7 +658,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/the-importance-of-healthy-soil">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -760,7 +760,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/seasonal-vegetables-you-should-try">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -862,7 +862,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/how-organic-fruits-improve-health">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -964,7 +964,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/the-future-of-sustainable-agriculture">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -1066,7 +1066,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/how-farmers-protect-biodiversity">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
@@ -1168,7 +1168,7 @@ export default function Blog() {
                 </a>
               </Suspense>
               <Suspense fallback={null}>
-                <a className="framer-1sknez1 framer-1nezh00" href="./blog/tips-for-choosing-organic-products">
+                <a className="framer-1sknez1 framer-1nezh00" href="#">
                   <div className="ssr-variant hidden-1lifd7w">
                     <div className="framer-1dozc82-container">
                       <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>

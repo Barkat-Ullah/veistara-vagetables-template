@@ -48,7 +48,7 @@ export default function Blog() {
               <div className="framer-1i7v4n7" style={{ gridTemplateColumns: "repeat(4, 1fr)" }}>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/10-easy-ways-to-use-seasonal-squash">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -101,7 +101,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/the-benefits-of-organic-farming">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -154,7 +154,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/why-fresh-farm-produce-matters">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -207,7 +207,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/from-farm-to-table">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -264,7 +264,7 @@ export default function Blog() {
               <div className="framer-1i7v4n7" style={{ gridTemplateColumns: "repeat(1, 1fr)" }}>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/10-easy-ways-to-use-seasonal-squash">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -315,7 +315,7 @@ export default function Blog() {
                     </a>
                   </Suspense>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/the-benefits-of-organic-farming">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -366,7 +366,7 @@ export default function Blog() {
                     </a>
                   </Suspense>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/why-fresh-farm-produce-matters">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -417,7 +417,7 @@ export default function Blog() {
                     </a>
                   </Suspense>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/from-farm-to-table">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "20px", borderBottomRightRadius: "20px", borderTopLeftRadius: "20px", borderTopRightRadius: "20px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -474,7 +474,7 @@ export default function Blog() {
               <div className="framer-1i7v4n7" style={{ gridTemplateColumns: "repeat(4, 1fr)" }}>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "16px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/10-easy-ways-to-use-seasonal-squash">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -527,7 +527,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "16px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/the-benefits-of-organic-farming">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -580,7 +580,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "16px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/why-fresh-farm-produce-matters">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -633,7 +633,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "16px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/from-farm-to-table">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -690,7 +690,7 @@ export default function Blog() {
               <div className="framer-1i7v4n7" style={{ gridTemplateColumns: "repeat(2, 1fr)" }}>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/10-easy-ways-to-use-seasonal-squash">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -741,7 +741,7 @@ export default function Blog() {
                     </a>
                   </Suspense>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/why-fresh-farm-produce-matters">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -794,7 +794,7 @@ export default function Blog() {
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/the-benefits-of-organic-farming">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
@@ -845,7 +845,7 @@ export default function Blog() {
                     </a>
                   </Suspense>
                   <Suspense fallback={null}>
-                    <a className="framer-y1pvef framer-lux5qc" href="./blog/from-farm-to-table">
+                    <a className="framer-y1pvef framer-lux5qc" href="#">
                       <div className="framer-11pzmvk-container">
                         <div className="framer-FCta4 framer-JLgb2 framer-mkgQP framer-xbNaX framer-1y8ec7p framer-v-1y8ec7p" data-framer-name="Variant 1" style={{ backgroundColor: "var(--token-be4ea0ff-40ee-4f14-832b-e47ac5f1ba7a, rgb(255, 255, 255))", width: "100%", borderBottomLeftRadius: "32px", borderBottomRightRadius: "32px", borderTopLeftRadius: "32px", borderTopRightRadius: "32px" }}>
                           <div className="framer-chx4xu" data-framer-name="inside content">
