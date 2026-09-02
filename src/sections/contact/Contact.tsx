@@ -71,8 +71,8 @@ export default function Contact() {
                     <div className="framer-1vehlic" data-framer-name="Contact Form Title" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                       <p className="framer-text framer-styles-preset-d52uab" data-styles-preset="QATvdoOcp" dir="auto" style={{ "--framer-text-color": "var(--token-f183dd4a-ffdc-43b0-a338-9aeb78e4c861, rgb(5, 33, 24))" }}>
                         <Suspense fallback={null}>
-                          <a className="framer-text framer-styles-preset-1olmms" data-styles-preset="divpmUT84" href="tel:14155557823" rel="">
-                            {"+1 (415) 555-7823"}
+                          <a className="framer-text framer-styles-preset-1olmms" data-styles-preset="divpmUT84" href="tel:+000000000" rel="">
+                            {"+0000 00000"}
                           </a>
                         </Suspense>
                       </p>
@@ -87,8 +87,8 @@ export default function Contact() {
                     <div className="framer-wx2l3q" data-framer-name="Contact Form Title" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                       <p className="framer-text framer-styles-preset-d52uab" data-styles-preset="QATvdoOcp" dir="auto" style={{ "--framer-text-color": "var(--token-f183dd4a-ffdc-43b0-a338-9aeb78e4c861, rgb(5, 33, 24))" }}>
                         <Suspense fallback={null}>
-                          <a className="framer-text framer-styles-preset-1olmms" data-styles-preset="divpmUT84" href="mailto:hello@vesteira.com" rel="">
-                            {"hello@vesteira.com"}
+                          <a className="framer-text framer-styles-preset-1olmms" data-styles-preset="divpmUT84" href="mailto:demo@barkat" rel="">
+                            {"demo@barkat"}
                           </a>
                         </Suspense>
                       </p>
@@ -102,7 +102,7 @@ export default function Contact() {
                     </div>
                     <div className="framer-1bvt8ah" data-framer-name="Contact Form Title" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
                       <p className="framer-text framer-styles-preset-d52uab" data-styles-preset="QATvdoOcp" dir="auto" style={{ "--framer-text-color": "var(--token-f183dd4a-ffdc-43b0-a338-9aeb78e4c861, rgb(5, 33, 24))" }}>
-                        {"Green Valley Farm Road Napa Valley, CA 94558 United States"}
+                        {"Demo Address, City, Country"}
                       </p>
                     </div>
                   </div>
